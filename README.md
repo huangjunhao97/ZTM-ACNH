@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a demo project of Udemy course The Complete Web Developer in 2020: Zero to Mastery, a little React app. 
+I put some of my own villagers in ACNH, in order to have some fun.
 
 ## Available Scripts
 
