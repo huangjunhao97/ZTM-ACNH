@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZTM-ACNH/static/css/main.485f4dc3.chunk.css",
+    "main.js": "/ZTM-ACNH/static/js/main.840f46f2.chunk.js",
+    "main.js.map": "/ZTM-ACNH/static/js/main.840f46f2.chunk.js.map",
+    "runtime-main.js": "/ZTM-ACNH/static/js/runtime-main.4bccfdba.js",
+    "runtime-main.js.map": "/ZTM-ACNH/static/js/runtime-main.4bccfdba.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ZTM-ACNH/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2c5cf23a.chunk.js": "/ZTM-ACNH/static/js/2.2c5cf23a.chunk.js",
+    "static/js/2.2c5cf23a.chunk.js.map": "/ZTM-ACNH/static/js/2.2c5cf23a.chunk.js.map",
+    "index.html": "/ZTM-ACNH/index.html",
+    "precache-manifest.afc44cd93042ed00dca23c893f2d77dc.js": "/ZTM-ACNH/precache-manifest.afc44cd93042ed00dca23c893f2d77dc.js",
+    "service-worker.js": "/ZTM-ACNH/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ZTM-ACNH/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.485f4dc3.chunk.css.map": "/ZTM-ACNH/static/css/main.485f4dc3.chunk.css.map",
+    "static/js/2.2c5cf23a.chunk.js.LICENSE.txt": "/ZTM-ACNH/static/js/2.2c5cf23a.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/ZTM-ACNH/static/media/Arvo-Bold.ab1dabbd.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bccfdba.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2c5cf23a.chunk.js",
+    "static/css/main.485f4dc3.chunk.css",
+    "static/js/main.840f46f2.chunk.js"
+  ]
+}
